@@ -1,2 +1,7 @@
 https://polyhaven.com/a/oak_veneer_01
 https://polyhaven.com/a/rubber_tiles
+https://polyhaven.com/a/dark_planks
+https://polyhaven.com/a/long_white_tiles
+https://assetstore.unity.com/packages/2d/textures-materials/manhole-4454
+https://polyhaven.com/a/wood_planks
+https://assetstore.unity.com/packages/3d/props/interior/house-interior-free-258782
